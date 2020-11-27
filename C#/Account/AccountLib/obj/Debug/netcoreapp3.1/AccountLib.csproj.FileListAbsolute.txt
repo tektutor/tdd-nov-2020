@@ -1,0 +1,9 @@
+C:\Users\Jeganathan\Account\AccountLib\bin\Debug\netcoreapp3.1\AccountLib.deps.json
+C:\Users\Jeganathan\Account\AccountLib\bin\Debug\netcoreapp3.1\AccountLib.dll
+C:\Users\Jeganathan\Account\AccountLib\bin\Debug\netcoreapp3.1\AccountLib.pdb
+C:\Users\Jeganathan\Account\AccountLib\obj\Debug\netcoreapp3.1\AccountLib.csprojAssemblyReference.cache
+C:\Users\Jeganathan\Account\AccountLib\obj\Debug\netcoreapp3.1\AccountLib.AssemblyInfoInputs.cache
+C:\Users\Jeganathan\Account\AccountLib\obj\Debug\netcoreapp3.1\AccountLib.AssemblyInfo.cs
+C:\Users\Jeganathan\Account\AccountLib\obj\Debug\netcoreapp3.1\AccountLib.csproj.CoreCompileInputs.cache
+C:\Users\Jeganathan\Account\AccountLib\obj\Debug\netcoreapp3.1\AccountLib.dll
+C:\Users\Jeganathan\Account\AccountLib\obj\Debug\netcoreapp3.1\AccountLib.pdb

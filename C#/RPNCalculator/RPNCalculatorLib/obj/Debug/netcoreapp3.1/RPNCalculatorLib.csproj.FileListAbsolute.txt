@@ -1,0 +1,9 @@
+C:\Users\Jeganathan\RPNCalculator\RPNCalculatorLib\bin\Debug\netcoreapp3.1\RPNCalculatorLib.deps.json
+C:\Users\Jeganathan\RPNCalculator\RPNCalculatorLib\bin\Debug\netcoreapp3.1\RPNCalculatorLib.dll
+C:\Users\Jeganathan\RPNCalculator\RPNCalculatorLib\bin\Debug\netcoreapp3.1\RPNCalculatorLib.pdb
+C:\Users\Jeganathan\RPNCalculator\RPNCalculatorLib\obj\Debug\netcoreapp3.1\RPNCalculatorLib.csprojAssemblyReference.cache
+C:\Users\Jeganathan\RPNCalculator\RPNCalculatorLib\obj\Debug\netcoreapp3.1\RPNCalculatorLib.AssemblyInfoInputs.cache
+C:\Users\Jeganathan\RPNCalculator\RPNCalculatorLib\obj\Debug\netcoreapp3.1\RPNCalculatorLib.AssemblyInfo.cs
+C:\Users\Jeganathan\RPNCalculator\RPNCalculatorLib\obj\Debug\netcoreapp3.1\RPNCalculatorLib.csproj.CoreCompileInputs.cache
+C:\Users\Jeganathan\RPNCalculator\RPNCalculatorLib\obj\Debug\netcoreapp3.1\RPNCalculatorLib.dll
+C:\Users\Jeganathan\RPNCalculator\RPNCalculatorLib\obj\Debug\netcoreapp3.1\RPNCalculatorLib.pdb

@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Account", "Account\Account.csproj", "{DFED821D-A909-442B-8EBC-F84AD49B0832}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccountLib", "AccountLib\AccountLib.csproj", "{B709B951-15D4-45F8-BBD5-F85B53A9D8A7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject", "TestProject\TestProject.csproj", "{C38C1578-9E8E-4E34-B0F8-2F86D4C2C238}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DFED821D-A909-442B-8EBC-F84AD49B0832}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFED821D-A909-442B-8EBC-F84AD49B0832}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFED821D-A909-442B-8EBC-F84AD49B0832}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFED821D-A909-442B-8EBC-F84AD49B0832}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B709B951-15D4-45F8-BBD5-F85B53A9D8A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B709B951-15D4-45F8-BBD5-F85B53A9D8A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B709B951-15D4-45F8-BBD5-F85B53A9D8A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B709B951-15D4-45F8-BBD5-F85B53A9D8A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C38C1578-9E8E-4E34-B0F8-2F86D4C2C238}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C38C1578-9E8E-4E34-B0F8-2F86D4C2C238}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C38C1578-9E8E-4E34-B0F8-2F86D4C2C238}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C38C1578-9E8E-4E34-B0F8-2F86D4C2C238}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6C2A615A-011B-45DD-9ECC-999C6B086297}
+	EndGlobalSection
+EndGlobal
